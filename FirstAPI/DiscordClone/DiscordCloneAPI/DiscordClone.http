@@ -1,0 +1,6 @@
+@DiscordClone_HostAddress = http://localhost:5106
+
+GET {{DiscordClone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
