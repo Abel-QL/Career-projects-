@@ -14,7 +14,6 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscordCloneAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66894e4cab3d1c8fb1abfa7f356f5c83cfa27a3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscordCloneAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscordCloneAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
